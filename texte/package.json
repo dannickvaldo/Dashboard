@@ -1,0 +1,29 @@
+{
+  "name": "gestionaire-tache",
+  "version": "1.0.0",
+  "description": "appli pour gerer les employer de kaeyros",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannickvaldo/texte.git"
+  },
+  "author": "dannick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannickvaldo/texte/issues"
+  },
+  "homepage": "https://github.com/dannickvaldo/texte#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.6.1",
+    "path": "^0.12.7",
+    "validator": "^13.12.0"
+  }
+}
