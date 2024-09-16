@@ -1,0 +1,13 @@
+// premier utilisateur
+{
+  "email":"dannick@gmail.com",
+  "password":"tttt"
+}
+{
+  "email":"danick@gmail.com",
+  "password":"tttt"
+}
+{
+  "email":"zk@gmail.com",
+  "password":"000zt"
+}
